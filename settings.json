@@ -1,0 +1,8 @@
+{
+    "name": "Prosper ",
+    "blocks": {
+        "/blockchain/solana": true,
+        "/blockchain/solana/rust": true,
+        "/framework/react": true
+    }
+}
